@@ -1,0 +1,8 @@
+--- 
+title: "An Awesome List of Configurations for Different Computer Architectures"
+author: "Jie Niu"
+date: "`r Sys.Date()`"
+output:
+  bookdown::gitbook: default
+documentclass: book
+---
